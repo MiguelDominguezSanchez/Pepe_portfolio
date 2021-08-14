@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*  */
+
+/* @font-face {
+    font-family: 'ArchiveGaramondBold';
+    src: url('assets/typography/ArchiveGaramond/ArchiveGaramondExp-Bold.otf');
+}
+
+@font-face {
+    font-family: 'ArchiveGaramondPro';
+    src: url('assets/typography/ArchiveGaramond/ArchiveGaramondPro.otf');
+} */
+
+@font-face {
+    font-family: 'LustPro-No5It';
+    src: url('assets/typography/Lust/LustPro-No5It.ttf');
+}
+
+.roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.LustPro-No5It {
+    font-family: 'LustPro-No5It';
+    font-weight: 700;
+}
+
+/* .archive-garamond-bold {
+    font-family: 'ArchiveGaramondBold';
+}
+
+.archive-garamond-pro {
+    font-family: 'ArchiveGaramondPro';
+} */
+
+
+/* color Palatte */
+
+/* 
+
+#3B2D15 Dark Brown
+
+#926014 Medium Brown
+
+#FDFAEO Light Brown
+
+#32361C Dark Green 
+
+*/
+
+/* .dark-brown {
+    color: #3B2D15;
+}
+
+.medium-brown {
+    color: #926014;
+}
+
+.light-brown {
+    color: #FDFAEO;
+}
+
+ */
+.dark-green {
+    color: #3f4f23;
+}
+
+.medium-green {
+    color: #cac98f;
+}
+
+.light-green {
+    color: #dbc968;
+}
+
+
+
+
+
+
+:root {
+    --overlay--color: #FDFAEO;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.showcase {
+    position: absolute;
+    right: 0;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #111;
+    color: #fff;
+    z-index: 2;
+    transition: 0.5s;
+}
+
+.showcase.active {
+    right: 300px;
+}
+
+.showcase header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 40px 100px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.monogram {
+    width: 50px;
+    display: inline;
+}
+
+.logo {
+    text-transform: uppercase;
+    cursor: pointer;
+    display: inline;
+}
+
+.fab {
+    color: #fff;
+}
+
+.toggle {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: url('./assets//img/bars-solid.svg');
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    cursor: pointer;
+}
+
+.toggle.active {
+    background: url('./assets/img/times-solid.svg');
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: center;
+}
+
+.showcase video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.99;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--overlay--color);
+    mix-blend-mode: overlay;
+}
+
+.text {
+    position: relative;
+    z-index: 10;
+}
+
+.text h2 {
+    font-size: 5em;
+    font-weight: 800;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+
+.text h3 {
+    font-size: 4em;
+    font-weight: 700;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+
+.text p {
+    font-size: 1.1em;
+    margin: 20px 0;
+    font-weight: 400;
+    max-width: 700px;
+}
+
+.text a {
+    display: inline-block;
+    font-size: 1em;
+    background: #cac98f;
+    padding: 10px 30px;
+    text-decoration: none;
+    /* color: #FDFAEO; */
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.text a:hover {
+    letter-spacing: 6px;
+}
+
+.social {
+    position: absolute;
+    bottom: 20px;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social li {
+    list-style: none;
+}
+
+.social li a {
+    display: inline-block;
+    filter: invert(1);
+    margin-right: 20px;
+    transform: scale(0.5);
+    transition: 0.5s;
+}
+
+.social li a:hover {
+    transform: scale(0.5) translate(-15px);
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dbc968;
+}
+
+.menu ul {
+    position: relative;
+    list-style: none;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #3f4f23;
+}
+
+.menu ul li a:hover {
+    color: var(--overlay--color);
+}
+
+@media(max-width: 991px) {
+    .showcase,
+    .showcase header {
+        padding: 40px
+    }
+}
+
+.text h2 {
+    font-size: 3em;
+}
+
+.text h3 {
+    font-size: 2em;
+}
+
+@media(max-width: 410px) {
+
+    .logo {
+        font-size: 22px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
