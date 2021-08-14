@@ -1,0 +1,1544 @@
+
+
+
+/*190406 Further development Doubleck what is repeated*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.owlofminervacoinlogo {
+	height: 50px;
+	width: 50px;
+}*/
+
+/*HEADER*/
+
+.navbar-brand {
+
+	/*font-family: OPTIColumna-Open;
+	text-transform: uppercase;*/
+
+	/*background-color: #949245;*/
+
+}
+
+.nav-link {
+	
+	/*font-family: 'Roboto', sans-serif;*/
+	/*font-family: 'Permanent Marker', cursive;*/
+	/*font-family: 'Cinzel Decorative', cursive;*/
+	/*font-family: OPTIColumna-Open;*/
+	/* text-transform: uppercase; */
+
+	/*font-family: 'Lust Hedonist';*/
+	/*190602*/
+	/* font-family: 'LustProSlim-No5'; */
+
+}
+
+/*BODY*/
+
+
+/*.minerva_banner {
+
+	height: 700px;
+	z-index: 1000px;
+
+}*/
+
+
+
+
+
+/*styles.css*/
+
+html,
+body {
+	height: 100%;
+}
+
+img{
+	max-width: 100%;
+}
+
+/* cover */
+
+/*#cover {
+	background: #222 url('img/stars.jpg') center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}*/
+
+.Owl_of_Minerva_h1 {
+
+	font-family: OPTIColumna-Open;
+	text-transform: uppercase;
+
+}
+
+.excerpt {
+
+	font-family: 'Cinzel', serif;
+
+	
+}
+
+/*.cardheight100{
+
+height: 90%;
+
+}*/
+
+/*.Youtubeh1 {
+	font-family: OPTIColumna-Open;
+	text-transform: uppercase;
+	
+	color: black;
+	
+
+}*/
+
+.mecenazgo-h1{
+	/*font-family: OPTIColumna-Open;*/
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+	
+	color: #82804b;
+
+}
+
+/*#bab86c
+
+#a7a561
+
+#949356
+
+#82804b*/
+
+
+
+
+
+/*.Youtubeimg {
+	max-height: 700px;
+}*/
+
+/*Change ne of class does not have to do*/
+.chiseled {
+
+	/*font-family: 'Cinzel', serif;*/
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+}
+
+
+/*#cover-caption {
+	width: 100%;
+}
+
+.section-content {
+	padding: 5rem 0;
+}*/
+
+.info-section {
+
+	background: #555;
+
+}
+
+.info-container {
+	width: 100%;
+	background: #999;
+
+}
+
+.info-block {
+	background: #333;
+
+}
+
+.info-block-content {
+	background: #888;
+
+}
+
+.img-container {
+	background: #444;
+
+}
+
+.section  {
+	background: #666;
+
+}
+
+.three-column{
+	background: #777;
+
+}
+
+
+
+
+.statistics-section {
+	background: #fff;
+
+}
+
+
+.statistics-container {
+	background: #333;
+}
+
+.videos-block {
+	background: #777;
+
+}
+
+.subscriber-block {
+	background: #666;
+
+}
+
+.views-block {
+	background: #777;
+
+}
+
+
+
+
+
+
+
+.imgcooperate {
+	max-height: 175px;
+	max-width: 175px;
+}
+
+
+/*190324*/
+
+
+.rounded_img {
+	border-radius: 50%;
+	/*background: black;*/
+	/*border-radius: 10px 100px / 120px;*/
+	max-height: 160px;
+	max-width: 160px;
+	padding: 10px;
+	/*margin: 10px;*/
+
+}
+
+
+.card-columns{
+	margin: auto;
+}
+
+/*.petardo {
+	max-height: 200px;
+	max-width: 200px;
+}*/
+
+.Small_Caption_Excerpt{
+	font-size: 12px;
+}
+
+.navagencyprocedure{
+	padding-bottom: 70px;
+}
+
+/*.marginauto{
+	margin: auto;
+
+}*/
+
+.cardpadding{
+	padding: 10px;
+}
+
+/*.section100width{
+	width: 100%;
+}*/
+
+
+
+.social{
+	font-size: 24px;
+}
+
+
+/*.card-body { background-color: rgba(245, 245, 245, 1); }*/
+
+.borderradious{
+	border-radius: 50%;
+	/*background: #555;*/
+	height: 150px;
+	width: 250px;
+}
+
+#accordion{
+	padding-bottom: 20px;
+}
+
+
+
+.padding_bottom{
+	padding-bottom: 20px;
+
+}
+
+
+#contact{
+	background: ;
+	height: 600px;
+}
+
+
+
+/*190327*/
+
+
+.iframe{
+	/*padding-bottom: 20px;*/
+	margin-bottom: 50px;
+}
+
+
+/*190330*/
+
+/*#2f311c olive green*/
+
+/*.card-img-overlay{
+
+}*/
+
+
+/*.olivegreenbg{
+	background-color: #2f311c;
+}*/
+
+.card-img-overlay{
+	/*background-color: #2f311c;*/
+	/*background-color: #949245;*/
+	/*background-color: #7ec0ee;*/
+
+
+
+
+
+}
+
+
+
+
+.card-img-overlay-pepe-navas{
+	/*background-color: #7ec0ee;*/
+	/*background-color: #2f311c;*/
+	/*background-color: #949245;*/
+	/*background-color: #d8ecf9;*/
+	/*color: #d8ecf9;*/
+
+
+}
+
+.pepe-navas-h1 {
+	
+  
+  
+
+  
+
+}
+
+.pepe-navas-h1-3 {
+	/*color: #bab86c;*/
+	/*color: #373720;*/
+	/*color: #6f6e40;*/
+
+	/*color: #404f24;
+  font-family: 'alcala';
+  text-transform: uppercase;*/
+
+}
+
+.dropcap-alcala {
+
+	color: /*#373720*/ /*#949356*/ #bab86c;
+  /*font-family: 'alcala';*/
+  /*font-family: 'Roboto', sans-serif;*/
+  /*font-family: 'leaf' ;*/
+
+/*190601*/
+
+/*font-family: 'Lust Hedonist Script';*/
+
+/*font-family: 'Lust Hedonist';*/
+
+font-family: 'LustProSlim-No5';
+
+  text-transform: uppercase;
+  font-size: 72px;
+  /*height: 100px;*/
+  /*width: 100px;*/
+  /*background-color: #6f6e40;*/
+  /*border-radius: 50%;*/
+
+}
+
+
+
+/*.Youtubeimg{
+	z-index: 1;
+}*/
+
+
+.pepe-navas-img{
+	/*max-height: 50px;
+	min-height: 50px;
+	max-width: 50px;
+	min-width: 50px;*/
+	opacity: 0.1;
+	z-index: 1;
+
+
+}
+
+.mecenazgoimg{
+	max-height: 700px;
+	z-index: 1;
+	padding: 100px;
+
+}
+
+.section2-luque-img {
+	max-height: 700px;
+	z-index: 1;
+	padding: 100px;
+
+}
+
+.padding{
+	padding: 100px;
+}
+
+/*.Youtubeimg {
+	max-height: 700px;
+}*/
+
+/*/190401*/
+
+
+/*Green Color Palette Hex
+From Light to Dark
+
+Shades of #bab86c Below
+
+#bab86c
+
+#a7a561
+
+#949356
+
+#82804b
+
+#6f6e40
+
+#5d5c36
+
+#4a492b
+
+#373720
+
+#252415
+
+#12120a
+
+#000000
+
+Shades of #bab86c Above
+
+/**/
+
+/*Tints of #bab86c Bellow
+From Saturated tto disaturated
+
+#bab86c
+
+#c0bf7a
+
+#c7c689
+
+#cecd98
+
+#d5d4a6
+
+#dcdbb5
+
+#e3e2c4
+
+#eae9d2
+
+#f1f0e1
+
+#f8f7f0
+
+#ffffff
+
+
+
+
+Tints of #bab86c Above
+
+
+
+
+
+
+
+
+Triadic Colors of #bab86c Bellow
+
+#bab86c
+
+#6cbab8
+
+#b86cba
+
+Triadic Colors of #bab86c Above
+
+
+Analogous Colors of #bab86c Bellow
+
+#bab86c
+
+#95ba6c
+
+#ba916c
+
+
+Analogous Colors of #bab86c Avobe
+
+
+Monochromatic Colors of #bab86c Bellow
+
+
+
+#949245
+#a5a34e
+#b2b05b
+#bab86c
+#c2c07d
+#cac98f
+#d2d1a0
+
+
+Monochromatic Colors of #bab86c Above
+
+
+
+
+Complementary Color Bellow
+	
+#bab86c 	#6c6eba
+
+Complementary Color Above
+
+/**/
+
+
+
+
+/*#bab86c Color CSS Codes
+
+.mybgcolor {background-color:#bab86c; } 
+.myforecolor {color:#bab86c; }
+.mybordercolor {border:3px solid #bab86c; }
+
+
+#bab86c Text Font Color
+
+<p style="color:#bab86c">Text here</p>
+
+This sample text font color is #bab86c
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#bab86c Background Color
+
+<div style="background-color:#bab86c">
+Div content here</div>
+
+This div background color is #bab86c
+
+#bab86c Border Color
+
+<div style="border:3px solid #bab86c">
+Div here</div>*//*/
+
+
+/**/
+
+
+.section1luque{
+	/*background-color: #d2d1a0;*/
+	/*background-color: #816c5b;*/
+	/*background-color: #83929f;*/
+	/*background-color: #d8ecf9;*/
+
+	background-image: -webkit-linear-gradient(top, transparent 0%, rgba(119, 79, 41, 0.5) 100%);
+    -webkit-transition: 1s all;
+    background-image: -webkit-linear-gradient(left top, 
+        transparent 0%, transparent 25%, 
+        rgba(119, 79, 41, 0.5) 25%, rgba(119, 79, 41, 0.5) 50%, 
+        transparent 50%, transparent 75%, 
+        rgba(119, 79, 41, 0.5) 75%);
+
+}
+
+.row1luque{
+	/*background-color: #8ac6ef;*/
+	/*background-color: #d8ecf9;*/
+		
+	background-image: -webkit-linear-gradient(top, transparent 0%, rgba(119, 79, 41, 0.5) 100%);
+    -webkit-transition: 1s all;
+    background-image: -webkit-linear-gradient(left top, 
+        transparent 0%, transparent 25%, 
+        rgba(119, 79, 41, 0.5) 25%, rgba(119, 79, 41, 0.5) 50%, 
+        transparent 50%, transparent 75%, 
+        rgba(119, 79, 41, 0.5) 75%);
+
+}
+
+.cardsection1luque{
+	/*background-color: #c2c07d;*/
+	/*background-color: #97ccf1;*/
+	background-color: #d8ecf9;
+	border: 0px;
+}
+
+.cardimgsection1luque{
+	/*background-color: #a4d2f3;*/
+	background-color: #d8ecf9;
+}
+
+.cardbodysection1luque{
+	/*background-color: #b1d9f4;*/
+	background-color: #d8ecf9;
+}
+
+/*#2f311c*/
+
+.navbar-bg{
+	/*background-color: #83929f;*/
+	/*background-color: #d8ecf9;*/
+	background-color: #7ec0ee;
+}
+
+.jumbo1luque{
+	background-color: #d8ecf9;
+
+}
+
+.jumbo2luque{
+	background-color: #8ac6ef;
+
+}
+
+.section0luque h1{
+	color:#d8ecf9;
+}
+
+.section2luque{
+	/*background-color: #d8ecf9;*/
+	background-image: -webkit-linear-gradient(top, transparent 0%, rgba(119, 79, 41, 0.5) 100%);
+    -webkit-transition: 1s all;
+    background-image: -webkit-linear-gradient(right top, 
+        transparent 0%, transparent 25%, 
+        rgba(119, 79, 41, 0.5) 25%, rgba(119, 79, 41, 0.5) 50%, 
+        transparent 50%, transparent 75%, 
+        rgba(119, 79, 41, 0.5) 75%);
+}
+
+.section2luque h1{
+	/*color:#d8ecf9;*/
+
+	background-image: -webkit-linear-gradient(top, transparent 0%, rgba(119, 79, 41, 0.5) 100%);
+    -webkit-transition: 1s all;
+    background-image: -webkit-linear-gradient(left top, 
+        transparent 0%, transparent 25%, 
+        rgba(119, 79, 41, 0.5) 25%, rgba(119, 79, 41, 0.5) 50%, 
+        transparent 50%, transparent 75%, 
+        rgba(119, 79, 41, 0.5) 75%);
+}
+
+/*
+#bab86c
+
+#c0bf7a
+
+#c7c689
+*/
+
+.section3luque{
+	/*background-color: #c7c689;*/
+
+}
+
+.section3luque h2{
+	/*color: #2f311c;*/
+}
+
+.section4luque h2{
+	/*color: #2f311c;*/
+}
+
+
+
+
+
+
+
+/* !important Sort out all previous done in this custom Css Mijail */
+/* Sort out by parts order further development */
+
+/*190404*/
+
+.pepeh1 {
+    /*font-family: OPTIColumna-Open;*/
+	font-family: 'Friz'; /*190406*/
+	
+
+    text-transform: uppercase;
+    font-size: 47px;
+    color: #949245; /*Light green from Shield*/
+
+	
+	margin: -50px;
+
+
+}
+
+.sectionbio {
+	/*background-color: #e5f2fb;*/
+	background-color: #f8f9fa;
+
+
+	/*#7ec0ee;*/
+}
+
+/*.sectionbio h1 {
+	letter-spacing: -8px;
+}*/
+
+.sectionbio .pepe {
+	letter-spacing: -4px;
+}
+
+.sectionbio .navas {
+	letter-spacing: -5px;
+}
+
+
+/*#2f311c Dark Green*/
+/*#949245 Light Green*/
+
+
+/*#7ec0ee Medium Light Blue*/
+
+
+
+/*.navbar .navbar-expand-lg .navbar-bg*/
+
+.navbar {
+	background-color: /*red;*/
+
+	/*#949245;*/
+}
+
+
+.dark-green-text {
+	color: #2f311c;
+}
+
+
+
+
+.navbar .nav-link {
+	
+	/*font-family: 'Roboto', sans-serif;*/
+	/*font-family: 'Permanent Marker', cursive;*/
+	/*font-family: 'Cinzel Decorative', cursive;*/
+	/*font-family: OPTIColumna-Open;*/
+	text-transform: uppercase;
+
+	/*color:#2f311c !important;*/
+
+}
+
+
+
+
+
+
+/**/
+
+
+
+
+
+
+
+.navbar .nav-link:hover {
+	color: 
+
+	/*#6499be;*/
+
+	#f8f7f0 !important;
+
+}
+
+
+
+
+
+
+
+/**/
+
+
+
+
+
+/*/////////////// FOOTER*/
+
+/*---------------- INDEX*/
+
+#footer-main {
+	background-color: #a7a561;
+
+	}
+
+#footer-main .nav-item {
+	/*font-family: 'Friz';
+	text-transform: uppercase;*/
+	/*color: #253947;*/
+	/*color: yellow;*/
+
+
+	/*#373720
+	#4a492b
+	#5d5c36
+	#6f6e40
+	#82804b
+	#949356
+	#a7a561*/
+
+}
+
+
+/*---------------- INDEX*/
+
+
+#footer-main .nav-item {
+	/*font-family: 'Friz';
+	text-transform: uppercase;*/
+	/*color: #253947;*/
+	/*color: yellow;*/
+
+
+	/*#373720
+	#4a492b
+	#5d5c36
+	#6f6e40
+	#82804b
+	#949356
+	#a7a561*/
+
+}
+
+/* ------------------------------------------ Secondary Menu */
+
+#footer-main .footersecondary {
+    /*color: #404f24;*/
+
+     /*#d8ecf9;*/
+
+    /*#404f24*/
+}
+
+#footer-main .footersecondary:focus, .footersecondary:hover {
+    color: #949245;
+
+    /*#d5d4a6;*/ /*#404f24;*/
+
+/*#d5d4a6
+#dcdbb5
+#e3e2c4*/
+
+/*#eae9d2
+#f1f0e1
+#f8f7f0
+#ffffff*/
+
+}
+
+#footer-main .nav-link {
+    color: #bab86c;
+
+    /*#404f24;*/
+
+}
+
+
+#footer-main .nav-link:hover {
+    color: #404f24;;
+
+    /*#bab86c;*/
+
+    /*#82804b;*/
+
+
+    /*#f8f7f0;*/
+
+    /*#949245;*/
+
+/*Shades of #bab86c Below
+
+#bab86c
+
+#a7a561
+
+#949356
+
+#82804b
+
+#6f6e40*/
+
+}
+
+.captiondesign {
+	font-family: OPTIColumna-Open;
+	text-transform: uppercase;
+
+	color:#2f311c ;
+
+/*}
+
+.captiondesign2 {
+	font-family: friz regular;
+	text-transform: uppercase;
+
+	color:#2f311c ;
+
+}*/
+
+}
+
+.signature {
+	/*font-family: friz;*/ /*Bold*/
+	font-family: friz regular;
+	text-transform: uppercase;
+
+	color:#2f311c ;
+
+}
+
+
+/* ------------------------------------------ Badge Monogram Leave */
+
+/*!eliminate other num in other sheets css*/ /*& Change class name to monogram*/
+
+
+.num {
+	display: table;
+
+	font-size:;
+	font-weight
+	color:;
+
+	line-height: 24px;
+
+	height: 50px;
+	width: 50px;
+
+	text-align: center;
+
+	/*background: #dd5638;*/
+/*190401	background: repeating-linear-gradient(
+  -45deg,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(119, 79, 41, 0.5) 2px,
+  rgba(255, 255, 255, 0.5) 3px
+);*/
+
+
+/*	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;*/
+
+/*border-radius: 5px 20px 5px;*/
+
+  background: #404f24;
+
+   /*#BADA55;*/
+
+
+
+
+
+
+ /*leave shape border radious*/
+  /*-moz-border-radius: 100px 0px;
+  -webkit-border-radius: 100px 0px;
+  border-radius: 100px 0px;*/
+  border-radius: 50%;
+
+
+
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	z-index:1;
+
+	-webkit-transition: 2s all;
+
+	-webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;
+
+	box-shadow: 
+
+	/*Set dropshadow & unable other css*/
+
+        /*0 0 0 1px rgba(119, 79, 41, 1) inset,*/ 
+        /*190401 0 0 20px -5px rgba(153, 204, 255, 0.5),
+        0 0 0px 3px #FFF inset;*/
+
+/*Search for inset other css give light green #949245*/
+
+
+
+}
+
+
+
+#footer-main .num:hover {
+
+  -webkit-transition: 2s all;
+
+  -webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;
+  
+/*190401  background: repeating-linear-gradient(
+  45deg,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(119, 79, 41, 1) 2px,
+  rgba(255, 255, 255, 1) 3px
+);*/
+
+	
+	background-color: #404f24;
+
+  	box-shadow: 
+        0 0 0 1px rgba(119, 79, 41, 1) inset, 
+        0 0 20px -5px rgba(119, 79, 41, 1),
+        0 0 0px 0.5px #FFF inset;
+
+        /*190401 0 0 0px 2px rgba(119, 79, 41, 0),
+        0 0 0px 2px #FFF inset;*/
+
+        /*leave shape border radious*/
+	 -moz-border-radius: 100px 0px;
+	 -webkit-border-radius: 100px 0px;
+	 border-radius: 100px 0px;
+
+
+	/*leave shape border radious Other Direction */
+	 -moz-border-radius: 0px 100px;
+	 -webkit-border-radius: 0px 100px;
+	 border-radius: 0px 100px;
+
+
+}
+
+
+
+
+
+
+
+
+/* Num Contact footer*/
+
+.numcontact {
+	display: table;
+
+	font-size:;
+	font-weight
+	color:;
+
+	line-height: 24px;
+
+	height: 100px;
+	width: 100px;
+
+	text-align: center;
+
+	/*background: #dd5638;*/
+/*190401	background: repeating-linear-gradient(
+  -45deg,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(119, 79, 41, 0.5) 2px,
+  rgba(255, 255, 255, 0.5) 3px
+);*/
+
+
+/*	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;*/
+
+/*border-radius: 5px 20px 5px;*/
+
+  background: #404f24;
+
+   /*#BADA55;*/
+
+
+
+
+
+
+ /*leave shape border radious*/
+  /*-moz-border-radius: 100px 0px;
+  -webkit-border-radius: 100px 0px;
+  border-radius: 100px 0px;*/
+  border-radius: 50%;
+
+
+
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	z-index:1;
+
+	-webkit-transition: 2s all;
+
+	-webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;
+
+	box-shadow: 
+
+	/*Set dropshadow & unable other css*/
+
+        /*0 0 0 1px rgba(119, 79, 41, 1) inset,*/ 
+        /*190401 0 0 20px -5px rgba(153, 204, 255, 0.5),
+        0 0 0px 3px #FFF inset;*/
+
+/*Search for inset other css give light green #949245*/
+
+
+
+}
+
+#footer-main .numcontact:hover {
+
+  -webkit-transition: 2s all;
+
+  -webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;
+  
+/*190401  background: repeating-linear-gradient(
+  45deg,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(119, 79, 41, 1) 2px,
+  rgba(255, 255, 255, 1) 3px
+);*/
+
+	
+	background-color: #404f24;
+
+  	box-shadow: 
+        0 0 0 1px rgba(119, 79, 41, 1) inset, 
+        0 0 20px -5px rgba(119, 79, 41, 1),
+        0 0 0px 0.5px #FFF inset;
+
+        /*190401 0 0 0px 2px rgba(119, 79, 41, 0),
+        0 0 0px 2px #FFF inset;*/
+
+        /*leave shape border radious*/
+	 -moz-border-radius: 100px 0px;
+	 -webkit-border-radius: 100px 0px;
+	 border-radius: 100px 0px;
+
+
+}
+
+/* */
+
+/* ------------------------------------------ Social */
+
+.badge.social{
+ 	background-size: 4px 4px;
+	font-size: 30px;
+	height:40px;
+	width:40px;
+	text-align: center;
+	line-height: 42px;
+	margin:0 5px 20px 0;
+	padding: 0;
+
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius:  50px;
+
+	color: #949245;
+
+	background-color: /*#816c5b;*/
+	#404f24;
+
+	border-style: solid;
+  	border-color: #404f24;
+  	border-width: 0.5px;
+
+}
+
+
+
+.badge.social.twitter:hover {
+    -webkit-transition: 1s all;
+  	background-size: 4px 4px;
+	/*leave shape border radious*/
+	-moz-border-radius: 100px 0px;
+	-webkit-border-radius: 100px 0px;
+	border-radius: 100px 0px;
+	background-color: #404f24;
+	color: #d5d4a6; /*LightGreen*/
+
+}
+
+
+.badge.social.facebook:hover {
+	-webkit-transition: 1s all;
+  	background-size: 4px 4px;
+	/*leave shape border radious*/
+	-moz-border-radius: 100px 0px;
+	-webkit-border-radius: 100px 0px;
+	border-radius: 100px 0px;
+	background-color: #404f24;
+	color: #d5d4a6; /*LightGreen*/
+}
+
+.badge.social.gplus:hover {
+	-webkit-transition: 1s all;
+  	background-size: 4px 4px;
+	/*leave shape border radious*/
+	-moz-border-radius: 100px 0px;
+	-webkit-border-radius: 100px 0px;
+	border-radius: 100px 0px;
+	background-color: #404f24;
+	color: #d5d4a6; /*LightGreen*/
+
+
+}
+
+.badge.social.youtube:hover {
+	-webkit-transition: 1s all;
+  	background-size: 4px 4px;
+	/*leave shape border radious*/
+	-moz-border-radius: 100px 0px;
+	-webkit-border-radius: 100px 0px;
+	border-radius: 100px 0px;
+	background-color: #404f24;
+	color: #d5d4a6; /*LightGreen*/
+
+}
+
+.badge.social.instagram:hover {
+	-webkit-transition: 1s all;
+  	background-size: 4px 4px;
+	/*leave shape border radious*/
+	-moz-border-radius: 100px 0px;
+	-webkit-border-radius: 100px 0px;
+	border-radius: 100px 0px;
+	background-color: #404f24;
+	color: #d5d4a6; /*LightGreen*/
+
+}
+
+.badge.social.patreon:hover {
+	-webkit-transition: 1s all;
+  	background-size: 4px 4px;
+	/*leave shape border radious*/
+	-moz-border-radius: 100px 0px;
+	-webkit-border-radius: 100px 0px;
+	border-radius: 100px 0px;
+	background-color: #404f24;
+	color: #d5d4a6; /*LightGreen*/
+
+}
+
+
+
+
+/*---------------- LUQUE*/
+
+
+
+
+
+/**/
+
+.navbar {
+	/*background-color: red;*/
+
+	/*#949245;*/
+}
+
+
+
+
+/*.navbar .navbar-expand-lg .navbar-dark .bg-dark {
+	background-color: red;
+
+}*/
+
+.bg-dark {
+    background-color: #949245 !important;
+}
+
+
+
+/**/
+
+#stage {
+	background-color: #d8ecf9;
+
+}
+
+
+
+
+/*
+#7ec0ee
+#8ac6ef
+#97ccf1
+#a4d2f3
+#b1d9f4
+#bedff6
+#cbe5f8
+#d8ecf9
+#e5f2fb
+#f2f8fd
+#ffffff
+*/
+
+/*.themes {
+	background-color: #bedff6;
+	
+	
+}*/
+
+/*.themes {
+
+	background: url('img/2560x1440_Luque_v1.jpg') 50% 100% repeat fixed;
+  	background-size: cover;
+  	text-align: center;
+}*/
+
+/*#featurette-panoramic-day { 
+  background: url('img/2560x1440_Luque_v1.jpg') 50% 100% repeat fixed;
+  background-size: cover;
+  text-align: center;
+  
+}*/
+
+
+
+/*html, body
+{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}*/
+
+
+
+/**/
+
+
+.themes .jumbotron {
+	/*background-color: #7ec0ee;*/
+	
+	/*190416 background-image: -webkit-linear-gradient(top, transparent 0%, rgba(119, 79, 41, 0.5) 100%);
+    -webkit-transition: 1s all;
+    background-image: -webkit-linear-gradient(left top, 
+        transparent 0%, transparent 25%, 
+        rgba(119, 79, 41, 0.5) 25%, rgba(119, 79, 41, 0.5) 50%, 
+        transparent 50%, transparent 75%, 
+        rgba(119, 79, 41, 0.5) 75%);*/
+
+
+}
+
+
+
+
+
+.cordoba {
+	font-size: 24px;
+}
+
+
+
+.burgos{
+  background:white url('img/Test_Burgos_Cathredal_Linework_Die_0.svg') 90% -10px no-repeat;
+
+}
+
+
+
+
+
+/*190412*/
+
+
+.synthesize-pictogram-place{
+
+  max-height: 350px;
+  max-width: 350px;
+
+  background-color: #e5f2fb;
+
+  border-radius: 50%;
+
+}
+
+
+/*
+#d8ecf9
+#e5f2fb
+#f2f8fd
+#ffffff
+*/
+
+.empty{
+	height: 100px;
+	width:100px;
+}
+
+
+
+
+/*#cecd98
+
+#d5d4a6
+
+#dcdbb5*/
+
+
+
+
+
+#shield{
+	background-color: #dcdbb5;
+}
+
+#mecenazgo{
+	background-color: #dcdbb5;
+}
+
+
+
+.shieldbg{
+	background-color: #d5d4a6;
+}
+
+.mecenazgobg{
+	background-color: #d5d4a6;
+}
+
+
+
+#obsequios {
+	background-color: #cecd98;
+
+	background-image: -webkit-linear-gradient(top, transparent 0%, rgba(119, 79, 41, 0.5) 100%);
+    -webkit-transition: 1s all;
+    background-image: -webkit-linear-gradient(left top, 
+        transparent 0%, transparent 25%, 
+        rgba(119, 79, 41, 0.5) 25%, rgba(119, 79, 41, 0.5) 50%, 
+        transparent 50%, transparent 75%, 
+        rgba(119, 79, 41, 0.5) 75%);
+
+}
+
+
+.obsequios {
+	background-color: #d5d4a6;
+
+	background-image: -webkit-linear-gradient(top, transparent 0%, rgba(119, 79, 41, 0.5) 100%);
+    -webkit-transition: 1s all;
+    background-image: -webkit-linear-gradient(right top, 
+        transparent 0%, transparent 25%, 
+        rgba(119, 79, 41, 0.5) 25%, rgba(119, 79, 41, 0.5) 50%, 
+        transparent 50%, transparent 75%, 
+        rgba(119, 79, 41, 0.5) 75%);
+}
+
+
+
+
+/*#404f24 dark green*/
+
+
+
+/*190410*/
+
+/*190414*/
+
+
+/*190420*/
+
+.pepe-navas-h1 {
+	
+  
+
+  
+
+}
+
+.pepe-navas-h1 {
+
+  /*color: #404f24;*/
+  
+
+}
+
+.darkbrown{
+	color: #774f29;
+
+}
+

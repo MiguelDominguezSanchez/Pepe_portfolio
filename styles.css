@@ -1,0 +1,292 @@
+/*styles.css*/
+
+html,
+body {
+	height: 100%;
+	background-image: url("img/minerva.svg");
+}
+
+img{
+	max-width: 100%;
+}
+
+/* cover */
+
+#cover {
+	background: #222 url('img/minerva.svg') center center no-repeat;
+
+	background-size: cover;
+	color: white;
+	height: 100%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+
+#cover-caption {
+	width: 100%;
+}
+
+
+.section-content {
+	padding: 5rem 0;
+}
+
+
+#about {
+	background: url('img/girlincar.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.about-text {
+	background: rgba(0,0,0,0.8);
+	color: white;
+	padding: 1.875rem;
+
+}
+
+#footer-main {
+	/*background: #555;*/
+  background-color: #816c5b;
+	color: white;
+	font-size: 0.8rem;
+	padding: 2.5rem 0;
+	font-family: 'Cinzel', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
+
+
+#footer-main .num {
+
+-webkit-transition: 2s all;
+
+  display: table;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  line-height: 24px;
+ /* height: 140px;
+  width: 140px;*/
+  text-align: center;
+  /*background: #dd5638;*/
+/*190401  background: repeating-linear-gradient(
+  -45deg,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(153, 204, 255, 1) 2px,
+  rgba(255, 255, 255, 1) 3px
+);*/
+
+
+/*  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;*/
+
+
+
+
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+  z-index:1;
+
+/*-webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;*/
+
+  box-shadow: 
+        /*0 0 0 1px rgba(119, 79, 41, 1) inset,*/ 
+        0 0 20px -4px rgba(186,184,108,1),
+        0 0 0px 1px #FFF inset;
+
+
+}
+
+/*      #BAB86C
+(186,184,108) olive green*/
+
+
+#footer-main .num:hover {
+
+  -webkit-transition: 2s all;
+
+ /* -webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;*/
+  
+/*190401  background: repeating-linear-gradient(
+  45deg,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(255, 255, 255, 1) 1px,
+  rgba(119, 79, 41, 1) 2px,
+  rgba(255, 255, 255, 1) 3px
+);*/
+
+  box-shadow: 
+        /*0 0 0 1px rgba(119, 79, 41, 1) inset,*/ 
+        /*0 0 20px -5px rgba(119, 79, 41, 1),
+        0 0 0px 0.5px #FFF inset;*/
+
+        /*190401 0 0 0px 2px rgba(119, 79, 41, 0),
+        0 0 0px 2px #FFF inset;*/
+
+        
+
+
+}
+
+#footer-main .num .num-content {
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+.um-content{
+  opacity: 1;
+}
+
+#footer-main .num span {
+  display: block;
+  font-size: 20px;
+  font-weight: normal;
+
+}
+
+
+.logobadge {
+    /*width: 120px;
+    height: 120px;*/
+    opacity: 1;
+    filter: alpha(opacity=20);
+    z-index: 2;
+}
+
+
+
+
+
+
+
+
+
+
+.num {
+	display: table;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	line-height: 24px;
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	/*background: #dd5638;*/
+/*190401	background: repeating-linear-gradient(
+  -45deg,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(119, 79, 41, 0.5) 2px,
+  rgba(255, 255, 255, 0.5) 3px
+);*/
+
+
+/*	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;*/
+
+/*border-radius: 5px 20px 5px;*/
+
+  background: #404f24;
+
+   /*#BADA55;*/
+
+
+
+
+
+
+ /*leave shape border radious*/
+  -moz-border-radius: 100px 0px;
+  -webkit-border-radius: 100px 0px;
+  border-radius: 100px 0px;
+
+
+
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	z-index:1;
+
+-webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;
+
+	box-shadow: 
+        /*0 0 0 1px rgba(119, 79, 41, 1) inset,*/ 
+        /*190401 0 0 20px -5px rgba(153, 204, 255, 0.5),
+        0 0 0px 3px #FFF inset;*/
+
+
+}
+
+.num:hover {
+	
+/*190401	background: repeating-linear-gradient(
+  45deg,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(255, 255, 255, 0.5) 1px,
+  rgba(153, 204, 255, 0.5) 2px,
+  rgba(255, 255, 255, 0.5) 3px
+);*/
+
+	box-shadow: 
+        /*0 0 0 1px rgba(119, 79, 41, 1) inset,*/ 
+        /*190401 0 0 20px -5px rgba(119, 79, 41, 1),*/
+
+        #bab86c,
+
+        0 0 0px 3px #FFF inset;
+
+        -webkit-transition: opacity 4s ease-in-out;
+    transition: opacity 4s ease-in-out;
+
+
+}
+
+.num .num-content {
+	display: table-cell;
+	vertical-align: middle;
+
+}
+
+/*.um-content{
+  opacity: 0.5;
+}*/
+
+.num span {
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+
+}
+
+
+/*190401*/
+
+
+
+
+
+
+
