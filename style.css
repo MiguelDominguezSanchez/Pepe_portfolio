@@ -339,13 +339,13 @@
 }
 
 .btn-primary {
-    color: #cac98f !important;
+    color: #fdfae0 !important;
     background-color: #926014 !important;
     border-color: #cac98f !important;
 }
 
 .btn-primary:hover {
-    color: #cac98f !important;
+    color: #fdfae0 !important;
     background-color: #3B2D15 !important;
     border-color: #926014 !important;
 }
@@ -361,6 +361,18 @@
 
 .backgroundCanvas {
     background-color: red;
+}
+
+/*  */
+
+a {
+    text-decoration: none !important;
+    color: #3f4f23;
+
+}
+
+a:hover {
+    color: #926014;
 }
 
 /*  */
